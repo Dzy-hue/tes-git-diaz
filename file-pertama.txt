@@ -1,1 +1,2 @@
 Ini adalah file pertama di project Git
+Ini adalah baris tambahan untuk tes update Git
